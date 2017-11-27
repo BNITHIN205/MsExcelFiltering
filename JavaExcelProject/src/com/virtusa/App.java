@@ -13,8 +13,11 @@ import org.apache.poi.hssf.usermodel.HSSFRow;
 import org.apache.poi.hssf.usermodel.HSSFSheet;
 import org.apache.poi.hssf.usermodel.HSSFWorkbook;
 
+//author nithin
 public class App {
 
+	
+	//main method
 	public static void main(String[] args) {
 		File f = null;
 		InputStream is = null;
